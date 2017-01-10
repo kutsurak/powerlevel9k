@@ -84,7 +84,7 @@ case $POWERLEVEL9K_MODE in
       LEFT_SUBSEGMENT_SEPARATOR      $'\uE0B1'              # 
       RIGHT_SUBSEGMENT_SEPARATOR     $'\uE0B3'              # 
       CARRIAGE_RETURN_ICON           $'\u21B5'              # ↵
-      ROOT_ICON                      $'\uF201'              # 
+      ROOT_ICON                      $'\uF0E7'              # 
       RUBY_ICON                      $'\uF219 '             # 
       AWS_ICON                       $'\uF296'              # 
       AWS_EB_ICON                    $'\U1F331 '            # 🌱
@@ -92,8 +92,8 @@ case $POWERLEVEL9K_MODE in
       TEST_ICON                      $'\uF291'              # 
       TODO_ICON                      $'\u2611'              # ☑
       BATTERY_ICON                   $'\U1F50B'             # 🔋
-      OK_ICON                        $'\uF23A'              # 
-      FAIL_ICON                      $'\uF281'              # 
+      OK_ICON                        $'\uF00C'              # 
+      FAIL_ICON                      $'\uF00D'              # 
       SYMFONY_ICON                   'SF'
       NODE_ICON                      $'\u2B22'              # ⬢
       MULTILINE_FIRST_PROMPT_PREFIX  $'\u256D'$'\U2500'     # ╭─
